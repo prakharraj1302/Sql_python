@@ -1,4 +1,4 @@
-# slq - pyhton - query - processor
+# MySQL - pyhton - query - processor
 # # mysql.server start
 # mysql.server stop
 # mysql.server restart
