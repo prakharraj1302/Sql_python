@@ -1,4 +1,4 @@
-# MySQL - pyhton - query - processor
+# MySQL - python - query - processor
 # # mysql.server start
 # mysql.server stop
 # mysql.server restart
